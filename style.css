@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://img.freepik.com/premium-photo/basketball-background-ai-generation_201606-3728.jpg);
+    background-size: cover;
+}
+#results {
+    position: relative;
+    left: 400px;
+    top: 50px;
+}
+span {
+    background-color: darkorange;
+    position: absolute;
+    border-radius: 1px;
+    box-shadow: 15px 15px 25px -5px rgba(0, 0, 0, 0.5);
+    border-radius: 20px 10px;
+    padding: 10px;
+}
+.player-name {
+    position: relative;
+    left: 5px;
+    font-weight: bold;
+}
+.player-team {
+    position: relative;
+    left: 5px;
+    font-style: italic;
+}
+.player-HAndP {
+    font-style: italic;
+}
+p {
+    text-shadow: 2px 2px 4px #999999;
+    text-decoration: underline;
+}
+.btn1.btn-outline-success {
+    position: relative;
+    left: 1260px;
+}
+.team-search {
+    position: relative;
+    left: 1250px;
+}
