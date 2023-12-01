@@ -7,6 +7,11 @@ body {
     left: 400px;
     top: 50px;
 }
+#team {
+    position: relative;
+    left: 400px;
+    top: 300px;
+}
 span {
     background-color: darkorange;
     position: absolute;
@@ -33,10 +38,15 @@ p {
     text-decoration: underline;
 }
 .btn1.btn-outline-success {
-    position: relative;
-    left: 1260px;
+    position: absolute;
+    left: 1460px;
 }
 .team-search {
-    position: relative;
+    position: absolute;
     left: 1250px;
+}
+.team-name {
+    position: relative;
+    left: 5px;
+    font-weight: bold;
 }
